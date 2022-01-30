@@ -2,6 +2,16 @@ body {
   background-color: violet;
 }
 
+.bucket {
+  height: 50vh;
+  background-color: white;
+  padding: 20px;
+  text-transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 4px 4px 10px black;
+}
+
 h1 {
-  background-color: rgb(48, 78, 212);
+  background-color: rgb(29, 221, 173);
+  text-shadow: 2px 2px 4px red;
 }
